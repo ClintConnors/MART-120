@@ -1,0 +1,7 @@
+.pageTitles {font-family: Jazz LET, fantasy; text-align: center; color: indigo;}
+.subHeaders {color: IndianRed; text-align: center; list-style: inside; font-size: 25px; font-weight: 1000;}
+#center {display: block; margin-left: auto; margin-right: auto; width: 50%; text-align: center;}
+#size1 {font-size: 50px}
+#numbers {text-align: center; list-style-position: inside;}
+#selections {text-align: center; list-style-position: inside; font-size: 30px}
+img {height: auto; width: auto; max-width: 300px; max-height: 300px;}
